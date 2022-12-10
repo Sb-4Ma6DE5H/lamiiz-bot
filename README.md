@@ -1,32 +1,62 @@
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V5⚜️<br></h1>
+<img src=https://i.ibb.co/YjgmKsC/Text-Pro-me-163490782bfdbc.jpg>
+
+### Hi i'm lamiiz 👋
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+lamiiz;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/l4miii_x/count.svg)
+
+<img src=https://i.ibb.co/zHpq6wY/images.jpg>
+
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm lamiiz&nbsp;
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lamiiz&label=Profile%20views&color=0e75b6&style=flat" alt="lamiiz" /> </p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamiiz" alt="lamiiz" /></a> </p>
+
 <p align="center">
-<img src="https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamiiz&show_icons=true&theme=dark&locale=en&layout=compact" alt="lamiiz" /></p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) border="0"></a> 
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lamiiz&show_icons=true&theme=dark&locale=en" alt="lamiiz" /></p>
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kaveesha2006/DARK-BOT-QR#)
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamiiz&theme=dark" alt="lamiiz" /></p>
+</p>
 
-1. Click [SCAN](https://replit.com/@Kaveesha2006/DARK-BOT-QR#) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+- 🔭 I’m currently working on [lamiiz] (https://github.com/lamiiz)
 
-2. Click [FORK](https://github.com/Kaveeshasithum/DARK-NERO-BOT-MD-/fork)
+- 💬 Ask me about *ME*
 
-2. After That Upload Session.json File
+- 📫 How to reach me *https://wa.me/919946803234*
 
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-
-5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
-
+- ⚡ Fun fact *I THINK IAM VERY POSITIVE*
 
 
+### Repo Stats 🔭
+
+*CLICK THE LOGO TO VISIT THE REPO 👇🏻👇🏻👇*
+
+
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=lamiiz&repo=lamiiz&theme=dark)](https://github.com/lamiiz)
 
 
 
-# > THANKS FOR CHOOSING DARK NERO BOT WE APPRECIATE YOU FOR YOUR SUPPORT
- 
-# > KUMUTHU 
-# > VIHANGA
-# > THINURA
-# > LAKHAN
-# > pramu
-# > Amra
+
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=lamiiz&repo=lamiiz&theme=dark)](https://github.com/lamiiz)
+
+
+
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=lamiiz)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
